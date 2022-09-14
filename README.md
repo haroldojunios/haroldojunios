@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Haroldo Júnio</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Wipro](https://www.wipro.com/pt-BR/)
+- 🔭 I’m currently working on [Rural Tech](https://www.ruraltech.com.br/) with process automation
 
 - 📝 I'm an electronics engineer pursuing a master's degree in electrical engineering
 
-- 🌱 I’m currently learning **ruby**
+<!-- - 🌱 I’m currently learning **ruby** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/haroldojunios](https://github.com/haroldojunios)
 
