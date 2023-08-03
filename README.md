@@ -5,7 +5,7 @@
 
 - 📝 I'm an electronics engineer pursuing a master's degree in electrical engineering
 
-<!-- - 🌱 I’m currently learning **ruby** -->
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/haroldojunios](https://github.com/haroldojunios)
 
