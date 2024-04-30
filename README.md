@@ -238,7 +238,7 @@
   <img
     width="42%"
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldojunios&layout=compact&langs_count=7&theme=github_dark"
+    src="https://github-readme-stats-chi-nine-23.vercel.app/api/top-langs/?username=haroldojunios&layout=compact&langs_count=8&theme=github_dark&exclude_repo=install-scripts,kori,boxes,dissertacao-unb"
     alt="haroldojunios"
   />
 </p>
@@ -247,7 +247,7 @@
   &nbsp;<img
     width="50%"
     align="right"
-    src="https://github-readme-stats.vercel.app/api?username=haroldojunios&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-chi-nine-23.vercel.app/api?username=haroldojunios&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
     alt="haroldojunios"
   />
 </p>
